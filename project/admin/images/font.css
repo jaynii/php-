@@ -1,0 +1,39 @@
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+BODY {
+	FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 12px; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+MENU {
+	FONT-SIZE: 14px; TEXT-DECORATION: underline
+}
+.aa {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/images/home/top/001.gif); BACKGROUND-REPEAT: no-repeat
+}
+.pfont {
+	FILTER: dropshadow(color=#666666,offx=1,offy=1); COLOR: #ffffff
+}
+.qform {
+	BORDER-RIGHT: #6699cc 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #6699cc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; BORDER-LEFT: #6699cc 1px solid; MARGIN-RIGHT: -18px; PADDING-TOP: 0px; BORDER-BOTTOM: #6699cc 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.jnfont {
+	FONT-SIZE: 9pt; FILTER: dropshadow(color=#666666,offx=1,offy=1); COLOR: #ffffff; FONT-FAMILY: "ËÎÌו"
+}
+.over {
+	BACKGROUND: #0033ff; COLOR: #ffffff
+}
+.down {
+	BACKGROUND: #0033ff; COLOR: #ffffff; FONT-STYLE: italic
+}

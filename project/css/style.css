@@ -1,0 +1,80 @@
+/*公共部分*/
+.navPoint { CURSOR: hand; }
+body {OVERFLOW-X: hidden; OVERFLOW: hidden; }
+td { font-size:12px; }
+a { color: #135294; text-decoration: none; }
+a:hover { color: #ff6600; text-decoration: underline; }
+/*菜单部分*/
+body{ font-size:12px; color : #000; font-family : tahoma, 宋体, fantasy; text-align : center; margin : 0; background :#fff; }
+.top_table { width:100%;  height:41px; }
+.top_table_leftbg { width:auto;  background-repeat: repeat-y ; height:41px; }
+.system_logo { width:160px; float:left; text-align:left; margin-top:8px; margin-left:5px; }
+div.menu{ margin:0 auto; height:22px; text-align:left; padding-top:18px; }
+div.menu ul { padding:0; margin:0; list-style-type: none;display:inline; }
+div.menu ul li .menu_div { height:23px; width:3px; font-size:10px; display:inline;}
+div.menu ul li {float:left; position:relative; width:auto; height:23px; line-height:20px; padding:0px 0px 0px 10px; margin-left:1px; font-size:12px;font-family :宋体;}
+div.menu_childs ul li{float: none;width:150px; line-height:15px; float:left; background:none; padding:0px; }
+div.menu_childs{ position:absolute; z-index :100; left:0px; top:33px; width:158px; white-space:nowrap; background:#F5FDFF; border:1px solid #185790; display:none; }
+div.menu ul li a:hover{ color:#ff7; text-decoration: none; }
+div.menu ul li a { color:#fff; text-decoration: none; }
+div.menu_childs ul li a:hover{ color:#fff; background:#337ABB; text-decoration: none; width:133px !important; width:148px; display:block; }
+div.menu_childs ul li a { color:#135294; text-decoration: none; width:133px !important; width:148px; height:20px; line-height:20px; padding-left:15px; }
+.main_top {table-layout:auto; }
+.menuhr{border-top:1px solid #B5CFDE; height:4px;line-height:0px; font-size:0px; width:98%; float:left; margin:4px 0px 0px 0px;}
+/*-------------------------------modify-----------------------------*/
+
+
+body { margin:0px; font-size:12px; }
+div { margin:0px; padding:0px; }
+.system_logo { width:160px; float:left; text-align:left; margin-top:0px; margin-left:5px; }
+/*- Menu Tabs 6--------------------------- */
+
+#tabs {
+  float:left;
+  width:auto;
+  line-height:normal;
+  margin-bottom:-8px;
+  }
+#tabs ul {
+  margin:0;
+  padding:26px 10px 0 0px !important;
+  *padding:27px 10px 0 0px !important;
+  padding:27px 10px 0 0px;
+  list-style:none;
+  }
+#tabs li {
+  display:inline;
+  margin:0;
+  padding:0;
+  }
+#tabs a {
+  float:left;
+  margin:0;
+  padding:0 0 0 5px;
+  text-decoration:none;
+  }
+#tabs a span {
+  float:left;
+  display:block;
+  padding:8px;
+  color:#E9F4FF;
+  }
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs a span {float:none;}
+/* End IE5-Mac hack */
+#tabs a:hover span {
+  color:#fff;
+  }
+#tabs a:hover {
+  background-position:0% -42px;
+  }
+#tabs a:hover span {
+  background-position:100% -42px;
+  color:#222;
+}
+
+input { border-bottom:1px solid #BDC5CA; border-right:1px solid #BDC5CA; border-top:1px solid #6F787E; border-left:1px solid #6F787E; padding:3px 2px; font-size:12px; }
+.input0{border:1px solid #BDC5CA}
+button { height:28px; line-height:28px; border:1px solid #C6D2E3;  font-size:12px; }
+.button_on { border:1px solid #c3a336; }
+.input_on {  border:1px solid #c3a336; }

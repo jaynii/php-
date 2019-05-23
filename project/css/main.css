@@ -1,0 +1,75 @@
+body ,th,td{
+	font:normal 14px ËÎÌו; 
+}
+body  { margin:0px; 
+		background-image:url(../../images/bgnews11.gif);
+		margin:0px; 
+		padding:10px; 
+		SCROLLBAR-FACE-COLOR: #ffffff; 
+		SCROLLBAR-HIGHLIGHT-COLOR: #25475c; 
+		SCROLLBAR-SHADOW-COLOR: #25475c; 
+		SCROLLBAR-DARKSHADOW-COLOR: #25475c; 
+		SCROLLBAR-3DLIGHT-COLOR: #25475c; 
+		SCROLLBAR-ARROW-COLOR: #FFFFFF;
+		SCROLLBAR-TRACK-COLOR: #25475c; 
+}
+td { height:24px; line-height:20px; background:#f0f0f0; font-size:14px; border:1px solid #fff; color:#000000; padding:2px; font-family:Arial, Helvetica, sans-serif; }
+a { color: #000000; text-decoration: none; }
+a:hover { color: #ff6600; text-decoration: underline; }
+
+.td_title,th {
+	height:26px;
+	line-height:26px;
+	background:#fff;
+	color:#135294;
+	font-weight:bold;
+	border:1px solid #fff;
+	padding-left:20px;
+	text-align:left;
+}
+TD.td1 { PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #F1F3F5; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; }
+TD.td2 { PADDING-RIGHT: 3px; PADDING-LEFT: 3px; BACKGROUND: #E4EDF9; PADDING-BOTTOM: 3px; PADDING-TOP: 3px; }
+input { border:1px solid #999; }
+.button { color: #135294; border:1px solid #666; height:21px; line-height:21px; background:url("../../images/button_bg.gif")}
+.radio { border:none; }
+.checkbox { border:none; }
+.helplink{
+	CURSOR: help;
+}
+.menuskin {
+	BORDER: #666666 1px solid; VISIBILITY: hidden; FONT: 14px Verdana;
+	POSITION: absolute;
+	BACKGROUND-COLOR:#EFEFEF;
+	background-repeat : repeat-y;
+	}
+
+.menuskin A {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 25px; COLOR: black; TEXT-DECORATION: none;
+	}
+
+#mouseoverstyle {
+	BACKGROUND-COLOR: #C9D5E7; margin:2px; padding:0px; border:red 1px solid;
+	}
+
+#mouseoverstyle A {
+	COLOR: black
+}
+
+.menuitems{
+	margin:2px;padding:1px;word-break:keep-all;
+}
+
+.font1{color:#AAAAAA;}
+.font2{color:red;}
+
+.TextBoxFocus{border:1px solid #339900;background-color:#FFFFF0;}
+
+/**/
+input { border-bottom:1px solid #BDC5CA; border-right:1px solid #BDC5CA; border-top:1px solid #6F787E; border-left:1px solid #6F787E; padding:0;  font-size:14px; }
+.input0{border:1px solid #BDC5CA}
+button { height:28px; line-height:28px; border:1px solid #C6D2E3;font-size:14px; }
+.button_on {  border:1px solid #c3a336; }
+.input_on { border:1px solid #c3a336; }
+textarea { border:1px #CCCCCC solid}
+.downkong { margin-bottom:5px;} 
+.upkong { margin-top:5px;} 
